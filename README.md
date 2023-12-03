@@ -12,7 +12,7 @@ Passionate developer & design expert in Next.js, React.js, MongoDB, Python, Web5
 * 🚀  I'm currently working on [Codassets](http://codassets.vercel.app)
 * 🧠  I'm learning Svelet
 * 🤝  I'm open to collaborating on Fullstack Web Dev,
-* 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivinPrince)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
